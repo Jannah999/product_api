@@ -1,0 +1,152 @@
+{"products":
+  [{
+  "id": 1,
+  "product_name": "Pork - Smoked Kassler",
+  "price": "Rupiah",
+  "stock": 45
+}, {
+  "id": 2,
+  "product_name": "Tea - Black Currant",
+  "price": "Peso",
+  "stock": 7
+}, {
+  "id": 3,
+  "product_name": "Soup - Campbells Tomato Ravioli",
+  "price": "Peso",
+  "stock": 4
+}, {
+  "id": 4,
+  "product_name": "Beef - Shank",
+  "price": "Somoni",
+  "stock": 85
+}, {
+  "id": 5,
+  "product_name": "Vodka - Smirnoff",
+  "price": "Yuan Renminbi",
+  "stock": 65
+}, {
+  "id": 6,
+  "product_name": "Cleaner - Lime Away",
+  "price": "Peso",
+  "stock": 68
+}, {
+  "id": 7,
+  "product_name": "Ham - Procutinni",
+  "price": "Peso",
+  "stock": 39
+}, {
+  "id": 8,
+  "product_name": "Seedlings - Mix, Organic",
+  "price": "Ringgit",
+  "stock": 65
+}, {
+  "id": 9,
+  "product_name": "Pepper - Yellow Bell",
+  "price": "Rial",
+  "stock": 74
+}, {
+  "id": 10,
+  "product_name": "Sugar - Palm",
+  "price": "Hryvnia",
+  "stock": 76
+}, {
+  "id": 11,
+  "product_name": "Coffee Cup 8oz 5338cd",
+  "price": "Shekel",
+  "stock": 41
+}, {
+  "id": 12,
+  "product_name": "Wine - Chateauneuf Du Pape",
+  "price": "Euro",
+  "stock": 89
+}, {
+  "id": 13,
+  "product_name": "Munchies Honey Sweet Trail Mix",
+  "price": "Rupiah",
+  "stock": 23
+}, {
+  "id": 14,
+  "product_name": "Basil - Pesto Sauce",
+  "price": "Baht",
+  "stock": 46
+}, {
+  "id": 15,
+  "product_name": "Sauce Tomato Pouch",
+  "price": "Peso",
+  "stock": 25
+}, {
+  "id": 16,
+  "product_name": "Fondant - Icing",
+  "price": "Dollar",
+  "stock": 83
+}, {
+  "id": 17,
+  "product_name": "Sambuca - Opal Nera",
+  "price": "Yuan Renminbi",
+  "stock": 42
+}, {
+  "id": 18,
+  "product_name": "Cheese - Victor Et Berthold",
+  "price": "Yuan Renminbi",
+  "stock": 21
+}, {
+  "id": 19,
+  "product_name": "Shrimp - 16/20, Peeled Deviened",
+  "price": "Peso",
+  "stock": 31
+}, {
+  "id": 20,
+  "product_name": "Blueberries",
+  "price": "Krone",
+  "stock": 5
+}, {
+  "id": 21,
+  "product_name": "Versatainer Nc - 8288",
+  "price": "Real",
+  "stock": 51
+}, {
+  "id": 22,
+  "product_name": "Parsnip",
+  "price": "Dong",
+  "stock": 62
+}, {
+  "id": 23,
+  "product_name": "Beer - Sleemans Honey Brown",
+  "price": "Krona",
+  "stock": 64
+}, {
+  "id": 24,
+  "product_name": "Fondant - Icing",
+  "price": "Dollar",
+  "stock": 75
+}, {
+  "id": 25,
+  "product_name": "Wine - Merlot Vina Carmen",
+  "price": "Dollar",
+  "stock": 63
+}, {
+  "id": 26,
+  "product_name": "Gin - Gilbeys London, Dry",
+  "price": "Rupiah",
+  "stock": 91
+}, {
+  "id": 27,
+  "product_name": "Dried Apple",
+  "price": "Yuan Renminbi",
+  "stock": 72
+}, {
+  "id": 28,
+  "product_name": "Flower - Carnations",
+  "price": "Peso",
+  "stock": 24
+}, {
+  "id": 29,
+  "product_name": "Beef Striploin Aaa",
+  "price": "Yuan Renminbi",
+  "stock": 28
+}, {
+  "id": 30,
+  "product_name": "Cheese - Gouda Smoked",
+  "price": "Dong",
+  "stock": 2
+}]}
